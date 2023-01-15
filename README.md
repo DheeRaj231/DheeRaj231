@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Passionate programmer wants to explore the world of technology
+A Passionate programmer who wants to explore the world of technology 🙂
 
 
 ## 🌐 Socials:
