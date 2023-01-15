@@ -12,4 +12,8 @@ A Passionate programmer who wants to explore the world of technology 🙂
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DheeRaj231&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DheeRaj231&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="center">
+<img src="https://github.com/DheeRaj231/DheeRaj231/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
