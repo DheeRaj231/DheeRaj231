@@ -14,7 +14,7 @@ A Passionate programmer who wants to explore the world of technology 🙂
 
 ``` java
 if (coding){
-            music = true;
+            headphone = true;
             focus = 100;
             distraction = null;
            }
