@@ -12,6 +12,14 @@ A Passionate programmer who wants to explore the world of technology 🙂
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DheeRaj231&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DheeRaj231&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+ java
+if (coding){
+            music = true;
+            focus = 100;
+            distraction = null;
+           }
+// 
+
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
